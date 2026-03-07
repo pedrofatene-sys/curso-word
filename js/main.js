@@ -3,7 +3,25 @@ const channels = [
     { id: '59lDXVkqlqQ', name: 'Apresentação do Curso de Word 2016' },
     { id: 'qVoiU4MMCZ8', name: '10 Dicas para Word 2016' },
     { id: 'iOlONI3F300', name: 'Primeiros Passos no Word 2016' },
-      
+    { id: 'Vp0UZie4rq0', name: 'Salvando Documentos Locais e na Nuvem' },
+    { id: '--aFom9XFxQ', name: 'Abrindo e Editando PDF no Word 2016' },
+    { id: 'eNJUq2-q2Ps', name: 'Digitação e Formatação Básica' },  
+    { id: 'ELtk2wmrmQc', name: 'Formatações Baseadas em Estilos' },
+    { id: 'goajzoo8oMc', name: 'Trabalhando com Imagens' },
+    { id: 'F8YHug52D10', name: 'Marcas de Tabulação' },
+    { id: 'JvSVkrDbzf0', name: 'Configurações na Página' },
+    { id: 'CIGujgOfpl8', name: 'Texto em Colunas' },
+    { id: 'XaMgzE9no1E', name: 'Quebras de Texto' },
+    { id: 'ck-Bx_KAmPg', name: 'Cabeçalho e Rodapé' },
+    { id: 'uE1AAAkr_OQ', name: 'Estrutura Avançada de um Documento Word' },
+    { id: 'sLNR2cVG4dQ', name: 'Folha de Rosto (Capas no Word)' },
+    { id: 'AZt14AuqwnY', name: 'Componentes de Design' },
+    { id: 'iq4kIodKBv8', name: 'Sumário Automático' },
+    { id: 'SJkXd7kIIKA', name: 'Criando Bibliografia ABNT Automática no Word' },
+    { id: 'V0iN-op4_Y0', name: 'Notas de Rodapé e Comentários' },
+    { id: 'sJBmPFS3Zl0', name: 'Listas no Word' },
+    { id: '8kZekn96fvU', name: 'Tabelas no Word' },
+    { id: 'iVrd8Bl1pSA', name: 'Formulas e equações' },
 ];
 
 // Estado atual
